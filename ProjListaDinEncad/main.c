@@ -22,6 +22,7 @@ int main(){
 
     Lista *li3=concatena_listas(li, li);
 
+
     libera_lista(li);
     libera_lista(li2);
     libera_lista(li3);
